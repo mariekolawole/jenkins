@@ -1,5 +1,4 @@
-echo This is an example of a batch script
-echo This is running in a build step
-echo This is a param %PASSED%
+echo This is a script from git hub
 SET num = %FIRSTNUMBER% + %SECONDNUMBER%
 echo %num%
+echo This is complete
